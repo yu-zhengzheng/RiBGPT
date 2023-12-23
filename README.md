@@ -1,8 +1,12 @@
 # RiBGPT - the Rimworld Backdescription GPT
 
+![alt text](https://github.com/yu-zhengzheng/RiBGPT/blob/main/RiBGPT.png)
+
 # How to use RiBGPT
 
 Execute RiBGPT starter.bat, or use python demo.py at CLI
+
+# Dependencies
 
 # Directory Structure
 
@@ -17,4 +21,4 @@ RiBGPT starter.bat is the script that starts the GUI
 
 # Version
 
-v0.108
+v0.109
